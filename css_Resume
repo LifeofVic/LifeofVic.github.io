@@ -1,0 +1,23 @@
+body {
+  background-image:    url(https://images.unsplash.com/photo-1586074032362-2a21ee1ae5f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBhcGVyJTIwdGV4dHVyZXxlbnwwfHwwfHw%3D&w=1000&q=80);
+}
+
+h4 {
+  border-bottom: solid;
+  border-width: 3px 
+}
+
+h3 {
+  border-style: solid;
+  border-width: 1px;
+  font-family: Times new roman, sans-serif; 
+}
+
+li{
+  font-family: Times New Roman, Sans-serif;
+}
+
+}
+ 
+
+
